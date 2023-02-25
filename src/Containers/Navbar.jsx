@@ -3,7 +3,7 @@ import { logo } from './import'
 
 const Navbar = () => {
   return (
-      <div className='bg-backGround w-screen fixed  backdrop-filter backdrop-blur-lg bg-opacity-40 '>
+      <div className='bg-backGround w-screen fixed z-10 backdrop-filter backdrop-blur-lg bg-opacity-50 '>
         <div className='max-w-7xl mx-auto flex px-6 py-3 items-center justify-between'>
           <div className=''>
             <a href="" className='flex gap-5 items-center'>
@@ -15,7 +15,7 @@ const Navbar = () => {
            <div className='hidden lg:block '>
               <div className='flex gap-5 text-xl'>
                 <a href=""><button className='rounded-lg px-2 py-1 hover:bg-orange'>ABOUT US</button></a>
-                <a href=""><button className='rounded-lg px-2 py-1 hover:bg-orange'>EVENTS</button></a>
+                <a href="#events"><button className='rounded-lg px-2 py-1 hover:bg-orange'>EVENTS</button></a>
                 <a href=""><button className='rounded-lg px-2 py-1 hover:bg-orange'>OUR TEAM</button></a>
                 <a href=""><button className='rounded-lg px-2 py-1 hover:bg-orange'>SPONSERS</button></a>
                 <a href=""><button className='rounded-lg px-2 py-1 hover:bg-orange'>CONTACT</button></a>

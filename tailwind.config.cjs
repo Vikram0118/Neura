@@ -8,8 +8,8 @@ module.exports = {
     extend: {},
     colors: {
       'backGround' : '#f5f0e1' ,
-      'orange' : '#ffc13b',
-      'blue' : '#ffc13b',
+      'orange' : '#ff6e40',
+      'blue' : '#1e3d59',
       'yellow' : '#ffc13b'
     },
   },
