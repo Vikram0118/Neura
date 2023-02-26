@@ -9,7 +9,7 @@ const Header = () => {
         <div className='flex flex-col items-center mx-auto justify-center md:flex-row gap-2'>
             <img className='w-24 h-24 md:w-1/2 md:h-full' src={logo} />
             <div className='flex flex-col justify-between px-6'>
-                <p className='text-4xl lg:text-6xl text-center'>NEURA 2K23</p>
+                <p className='text-4xl md:text-6xl text-center'>NEURA 2K23</p>
                 <WordRight text='This is the slogan we choose'/>
                 <WordLeft text='March 16 & 17'/>
             </div>

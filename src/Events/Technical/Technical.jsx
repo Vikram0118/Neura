@@ -6,7 +6,7 @@ const Technical = () => {
     <div className='max-w-6xl mx-auto text-2xl px-2 scroll-mt-40 '>
       <Title text=' 👨‍💻 Technical Events'/>
       <div className='container mx-auto py-3'>
-        <div className='grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2 sm:gap-5'>
+        <div className='grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2 sm:gap-5'>
           <Card title='Rally Coding' description='Where team matters than individual'/>
           <Card title='Forst Coding' description='Where team matters than individual'/>
           <Card title='IOT Project' description='Where team matters than individual'/>

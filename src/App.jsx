@@ -3,7 +3,7 @@ import {NavBar, Header, Footer, Body} from './Containers'
 
 const App = () => {
   return (
-    <div className='overflow-x-hidden relative'>
+    <div className='overflow-x-hidden'>
      <NavBar />
      <Header />
      <Body />

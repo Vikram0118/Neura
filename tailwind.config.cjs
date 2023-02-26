@@ -10,7 +10,8 @@ module.exports = {
       'backGround' : '#f5f0e1' ,
       'orange' : '#ff6e40',
       'blue' : '#1e3d59',
-      'yellow' : '#ffc13b'
+      'yellow' : '#ffc13b',
+      'purple' : '#BF40BF'
     },
   },
   plugins: [],
