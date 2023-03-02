@@ -6,7 +6,7 @@ const EventsContainer = () => {
     <div id='events' className='scroll-mt-20'>
         <div className='text-center text-lg sm:text-5xl font-semibold sm:my-2'>EVENTS</div>
         <Technical />
-        <OnlineEvents />
+        {/* <OnlineEvents /> */}
     </div>
   )
 }

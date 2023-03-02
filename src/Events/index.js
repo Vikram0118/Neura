@@ -1,2 +1,11 @@
 export {default as Technical} from './Technical/Technical'
 export {default as OnlineEvents} from './OnlineEvents/OnlineEvents'
+
+export {default as RallyCoding} from './Technical/RallyCoding'
+export {default as BlindCoding} from './Technical/BlindCoding'
+export {default as DebugCode} from './Technical/DebugCode'
+export {default as LearnDo} from './Technical/LearnDo'
+export {default as WebDesign} from './Technical/WebDesign'
+export {default as TechnicalQuiz} from './Technical/TechnicalQuiz'
+export {default as ForstCoding} from './Technical/ForstCoding'
+// export {default as RallyCoding} from './Technical/RallyCoding'

@@ -3,7 +3,7 @@ import {wave, logo} from './import'
 
 const Footer = () => {
   return (
-    <div className='mt-20 '>
+    <div className=' mb-0 sm:mt-20 '>
       <div className='flex flex-col items-center justify-center gap-2 '>
         <div className='flex flex-col items-center'>
           <img src={logo} className='w-24 h-24 md:w-48 md:h-48'  />
