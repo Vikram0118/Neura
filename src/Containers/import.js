@@ -3,5 +3,5 @@ import wave from '../Assets/wave.svg'
 
 export {
     logo,
-    wave
+    wave,
 }
