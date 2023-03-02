@@ -11,7 +11,7 @@ const Header = () => {
             <div className='flex flex-col justify-between px-6'>
                 <p className='text-4xl md:text-6xl text-center'>NEURA 2K23</p>
                 <WordRight text='This is the slogan we choose'/>
-                <WordLeft text='March 16 & 17'/>
+                <WordLeft text='March 13 & 14'/>
             </div>
         </div>
     </div>

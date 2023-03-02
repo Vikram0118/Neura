@@ -17,7 +17,7 @@ const DebugCode = () => {
 
            <div className='hidden lg:block '>
               <div className='flex gap-5 text-xl'>
-                <Link path='/'><button className='rounded-lg px-2 py-1 hover:bg-orange'>BACK</button></Link>
+              <Link to='/#events'><button className='rounded-lg px-2 py-1 hover:bg-orange'>BACK</button></Link>
               </div>
           </div>
         </div>
@@ -42,6 +42,8 @@ const DebugCode = () => {
               </ul>
             </div>
             <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>REGISTRATION</span> : ONLY SPOT REGISTACTION</div>
+            <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>FOR FURTHER DETAILS CONTACT</span> : VIKRAM - 9443615349</div>
+
           </div>
 
         </div>
