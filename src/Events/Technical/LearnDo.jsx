@@ -15,14 +15,11 @@ const LearnDo = () => {
             </a>
           </div>
 
-           <div className='hidden lg:block '>
-              <div className='flex gap-5 text-xl'>
+              <div className='flex gap-5 text-sm sm:text-xl'>
               <Link to='/#events'><button className='rounded-lg px-2 py-1 hover:bg-orange'>BACK</button></Link>
               </div>
-          </div>
         </div>
       </div>
-      <div className=''>
         <div className='flex max-w-6xl flex-col items-center justify-start mt-8  gap-10 mx-2 sm:mx-auto'>
 
           <WordRight text='LEARN AND DO' />
@@ -46,7 +43,6 @@ const LearnDo = () => {
 
           </div>
 
-        </div>
       </div>
     </div>
   )

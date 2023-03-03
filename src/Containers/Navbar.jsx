@@ -16,7 +16,7 @@ const Navbar = () => {
               <div className='flex gap-5 text-xl'>
                 <a href="#aboutus"><button className='rounded-lg px-2 py-1 hover:bg-orange'>ABOUT US</button></a>
                 <a href="#events"><button className='rounded-lg px-2 py-1 hover:bg-orange'>EVENTS</button></a>
-                <a href=""><button className='rounded-lg px-2 py-1 hover:bg-orange'>CONTACT</button></a>
+                <a href="#ourteam"><button className='rounded-lg px-2 py-1 hover:bg-orange'>OUR TEAM</button></a>
               </div>
           </div>
         </div>

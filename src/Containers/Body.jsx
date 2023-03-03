@@ -1,6 +1,6 @@
 import React from 'react'
 import {EventsContainer} from './index'
-import {AboutUs} from '../Components'
+import {AboutUs, OurTeam} from '../Components'
 
 
 const Body = () => {
@@ -8,6 +8,7 @@ const Body = () => {
     <div className='' >
       <AboutUs />
       <EventsContainer />
+      <OurTeam />
     </div>
   )
 }

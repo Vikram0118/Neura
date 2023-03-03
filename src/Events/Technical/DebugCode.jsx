@@ -11,18 +11,15 @@ const DebugCode = () => {
           <div className=''>
             <a href="" className='flex gap-5 items-center'>
               <img src={logo} className='w-9 h-10'/> 
-              <p className='text-lg md:text-xl'>NEURA 2K23</p>
+              <p className='text-lg md:text-xl'>NEURA 2023</p>
             </a>
           </div>
 
-           <div className='hidden lg:block '>
-              <div className='flex gap-5 text-xl'>
+              <div className='flex gap-5 text-sm sm:text-xl'>
               <Link to='/#events'><button className='rounded-lg px-2 py-1 hover:bg-orange'>BACK</button></Link>
               </div>
-          </div>
         </div>
       </div>
-      <div className=''>
         <div className='flex max-w-6xl flex-col items-center justify-start mt-8  gap-10 mx-2 sm:mx-auto'>
 
           <WordRight text='DEBUG THE CODE' />
@@ -46,7 +43,6 @@ const DebugCode = () => {
 
           </div>
 
-        </div>
       </div>
     </div>  )
 }

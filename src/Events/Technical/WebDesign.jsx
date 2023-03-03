@@ -15,14 +15,11 @@ const WebDesign = () => {
             </a>
           </div>
 
-           <div className='hidden lg:block '>
-              <div className='flex gap-5 text-xl'>
+              <div className='flex gap-5 text-sm sm:text-xl'>
                 <Link to='/#events'><button className='rounded-lg px-2 py-1 hover:bg-orange'>BACK</button></Link>
               </div>
-          </div>
         </div>
       </div>
-      <div className=''>
         <div className='flex max-w-6xl flex-col items-center justify-start mt-8  gap-10 mx-2 sm:mx-auto'>
 
           <WordRight text='WEB DESIGN' />
@@ -45,8 +42,6 @@ const WebDesign = () => {
             <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>FOR FURTHER DETAILS CONTACT</span> : VIKRAM - 9443615349</div>
 
           </div>
-
-        </div>
       </div>
     </div>
   )
