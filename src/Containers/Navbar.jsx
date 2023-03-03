@@ -8,7 +8,7 @@ const Navbar = () => {
           <div className=''>
             <a href="" className='flex gap-5 items-center'>
               <img src={logo} className='w-9 h-10'/> 
-              <p className='text-lg md:text-xl'>NEURA 2K23</p>
+              <p className='text-lg md:text-xl'>NEURA 2023</p>
             </a>
           </div>
 

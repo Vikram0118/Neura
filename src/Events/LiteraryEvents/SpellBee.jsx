@@ -24,18 +24,15 @@ const DebugCode = () => {
       <div className='flex max-w-6xl flex-col items-center justify-start mt-8  gap-10 mx-2 sm:mx-auto'>
         <WordRight text='DEBUG THE CODE' />
         <div className='flex flex-col mx-2 text-left gap-2 '>
-          <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>REGISTRATION FEE</span> : INR 100 </div>
+          <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>REGISTRATION FEE</span> : INR 50 </div>
           <div>
             <p className='font-medium text-lg sm:text-xl'>RULES </p>
               <ul className='flex flex-col gap-2 text-base sm:text-lg my-3'> 
-                <li>1. EACH TEAM SHOULD HAVE 3 MEMBERS. </li>
-                <li>2. ONE INTERMIDIATE LEVEL QUESTION WILL BE GIVEN. </li>
-                <li>3. FIRST ONE FROM THE TEAM WILL START SOLVING THE PROBLEM. </li>
-                <li>4. AFTER 15 MINUTES SECOND PERSON HAVE TO CONTINUE SOLVING THE SAME PROBLEM THEN CONTINUED BY THE THIRD PERSON. </li>
-                <li>( SWAPPING OF TEAM MATE WILL BE DONE ONLY AFTER 15 MIN AND EACH TEAM MATE NEED TO WORK FOR 15 MINUTES BEFORE SWAPPING )</li>
-                <li className='font-medium'>5. TEAM MATES ARE NOT ALLOWED TO DISCUSS IN BETWEEN. </li>
-                <li>6. FIRST TEAM TO COME UP WITH A SOLUTION WINS. </li>
-                <li>7. IF TWO TEAM COMPLETES AT THE SAME TIME THEN TIME COMPLEXITY WILL BE CONSIDERED. </li>
+                <li>1. The words will be pronounced by the judges. </li>
+                <li>2. The participants must write down the spellings of the pronounced words. </li>
+                <li>3. </li>
+                <li className='font-extrabold'> NUMBER OF WORDS: 10 </li>
+                <li className='font-extrabold'> NUMBER OF WORDS: 10 </li>
               </ul>
           </div>
           <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>REGISTRATION</span> : ONLY SPOT REGISTACTION</div>

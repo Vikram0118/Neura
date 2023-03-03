@@ -1,4 +1,5 @@
 export {default as Technical} from './Technical/Technical'
+export {default as Literary} from './LiteraryEvents/Literary.jsx'
 export {default as OnlineEvents} from './OnlineEvents/OnlineEvents'
 
 export {default as RallyCoding} from './Technical/RallyCoding'

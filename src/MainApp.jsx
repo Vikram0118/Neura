@@ -8,6 +8,7 @@ const MainApp = () => {
         <NavBar />
         <Header />
         <Body />    
+        <Footer />
     </>
     
     )
