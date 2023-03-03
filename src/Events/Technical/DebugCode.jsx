@@ -16,7 +16,7 @@ const DebugCode = () => {
           </div>
 
               <div className='flex gap-5 text-sm sm:text-xl'>
-              <Link to='/#events'><button className='rounded-lg px-2 py-1 hover:bg-orange'>BACK</button></Link>
+              <Link to='/'><button className='rounded-lg px-2 py-1 hover:bg-orange'>BACK</button></Link>
               </div>
         </div>
       </div>
