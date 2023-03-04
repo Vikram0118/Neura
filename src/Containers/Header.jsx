@@ -10,17 +10,17 @@ const Header = () => {
           <div className='flex flex-col items-center mx-auto justify-center md:flex-row gap-2'>
               <img className='img-header w-24 h-24 md:w-1/2 md:h-full' src={logo} draggable='false' />
               <div className='flex flex-col justify-between px-6'>
-                  <p className='text-4xl md:text-6xl text-center font-cinel' >
-                    <span className='hover:text-white-custom'>N</span>
-                    <span className='hover:text-white-custom'>E</span>
-                    <span className='hover:text-white-custom'>U</span>
-                    <span className='hover:text-white-custom'>R</span>
-                    <span className='hover:text-white-custom'>A</span>
+                  <p className='text-4xl md:text-6xl text-center font-cinel text-yellow' >
+                    <span className='hover:text-orange'>N</span>
+                    <span className='hover:text-orange'>E</span>
+                    <span className='hover:text-orange'>U</span>
+                    <span className='hover:text-orange'>R</span>
+                    <span className='hover:text-orange'>A</span>
                     <span>&nbsp;</span>
-                    <span className='hover:text-white-custom'>2</span>
-                    <span className='hover:text-white-custom'>0</span>
-                    <span className='hover:text-white-custom'>2</span>
-                    <span className='hover:text-white-custom'>3</span>
+                    <span className='hover:text-orange'>2</span>
+                    <span className='hover:text-orange'>0</span>
+                    <span className='hover:text-orange'>2</span>
+                    <span className='hover:text-orange'>3</span>
                   </p>
                   <WordRight text='Being Anonymous Is A Gift'/>
                   <WordLeft text='March 13 & 14'/>

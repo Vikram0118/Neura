@@ -5,7 +5,7 @@
 
 
 .root{
-    /* background: #0b0b0b; */
+    background: #0b0b0b;
     background-image: url('./Assets/background.svg');
     background-repeat: no-repeat;
     background-position: center;
