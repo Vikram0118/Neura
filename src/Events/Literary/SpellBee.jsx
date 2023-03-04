@@ -2,9 +2,8 @@ import React from 'react'
 import { Link } from 'react-router-dom';
 import {logo} from '../import';
 import {WordRight} from '../../Components'
-import {Footer} from '../../Containers'
 
-const DebugCode = () => {
+const SpellBee = () => {
   return (
 <div>
       <div className='bg-backGround w-screen'>
@@ -22,26 +21,33 @@ const DebugCode = () => {
         </div>
       </div>
       <div className='flex max-w-6xl flex-col items-center justify-start mt-8  gap-10 mx-2 sm:mx-auto'>
-        <WordRight text='DEBUG THE CODE' />
+      <WordRight text='SPELL BEE'/>
         <div className='flex flex-col mx-2 text-left gap-2 '>
           <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>REGISTRATION FEE</span> : INR 50 </div>
           <div>
             <p className='font-medium text-lg sm:text-xl'>RULES </p>
               <ul className='flex flex-col gap-2 text-base sm:text-lg my-3'> 
-                <li>1. The words will be pronounced by the judges. </li>
-                <li>2. The participants must write down the spellings of the pronounced words. </li>
-                <li>3. </li>
-                <li className='font-extrabold'> NUMBER OF WORDS: 10 </li>
-                <li className='font-extrabold'> NUMBER OF WORDS: 10 </li>
+                <li>1. The words will be pronounced by the judge. </li>
+                <li>2. The participants have to write the words on the sheet provided. </li>
+                <li>3. The participants can ask for repeating the word if required. </li>
+                <li>3. Judging will be based on the number of words correctly spelled. </li>
+                
+                <div className='bg-backGround rounded-xl py-2 px-5 my-3'>
+                <li className='font-medium'>Number of words: 10</li>
+                </div>
               </ul>
           </div>
-          <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>REGISTRATION</span> : ONLY SPOT REGISTACTION</div>
-          <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>FOR FURTHER DETAILS CONTACT</span> : VIKRAM - 9443615349</div>
+          <div className='bg-backGround rounded-xl py-2 px-5 my-3 space-y-3'>
+            <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>REGISTRATION LINK: </span> link.. </div>
+            <div className='text-base sm:text-lg'>Spot Registration Available</div>
+            <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>FOR FURTHER DETAILS CONTACT</span> : C. Sree Vyshnavi - 9843508506</div>
+          </div>
         </div>
+
 
       </div>
 
     </div>  )
 }
 
-export default DebugCode
+export default SpellBee

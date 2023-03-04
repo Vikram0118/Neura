@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import {logo} from '../import';
 import {WordRight} from '../../Components'
 
-const LearnDo = () => {
+const MiniMinilita = () => {
   return (
     <div>
          <div className='bg-backGround w-screen'>
@@ -22,7 +22,7 @@ const LearnDo = () => {
       </div>
         <div className='flex max-w-6xl flex-col items-center justify-start mt-8  gap-10 mx-2 sm:mx-auto'>
 
-          <WordRight text='LEARN AND DO' />
+          <WordRight text='Mini Milita' />
           <div className='flex flex-col mx-2 text-left gap-2 '>
             <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>REGISTRATION FEE</span> : INR 100 </div>
             <div>
@@ -40,7 +40,6 @@ const LearnDo = () => {
             </div>
             <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>REGISTRATION</span> : ONLY SPOT REGISTACTION</div>
             <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>FOR FURTHER DETAILS CONTACT</span> : VIKRAM - 9443615349</div>
-
           </div>
 
       </div>
@@ -48,4 +47,4 @@ const LearnDo = () => {
   )
 }
 
-export default LearnDo
+export default MiniMinilita

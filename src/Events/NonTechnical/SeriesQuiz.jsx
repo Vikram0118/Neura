@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import {logo} from '../import';
 import {WordRight} from '../../Components'
 
-const ForstCoding = () => {
+const SeriesQuiz = () => {
   return (
     <div>
          <div className='bg-backGround w-screen'>
@@ -11,18 +11,18 @@ const ForstCoding = () => {
           <div className=''>
             <a href="" className='flex gap-5 items-center'>
               <img src={logo} className='w-9 h-10'/> 
-              <p className='text-lg md:text-xl'>NEURA 2K23</p>
+              <p className='text-lg md:text-xl'>NEURA 2023</p>
             </a>
           </div>
 
               <div className='flex gap-5 text-sm sm:text-xl'>
               <Link to='/'><button className='rounded-lg px-2 py-1 hover:bg-orange'>BACK</button></Link>
-              </div>
+          </div>
         </div>
       </div>
         <div className='flex max-w-6xl flex-col items-center justify-start mt-8  gap-10 mx-2 sm:mx-auto'>
 
-          <WordRight text='FORST CODING' />
+          <WordRight text='Series Quiz' />
           <div className='flex flex-col mx-2 text-left gap-2 '>
             <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>REGISTRATION FEE</span> : INR 100 </div>
             <div>
@@ -43,9 +43,9 @@ const ForstCoding = () => {
 
           </div>
 
+        </div>
       </div>
-    </div>
-    )
+  )
 }
 
-export default ForstCoding
+export default SeriesQuiz
