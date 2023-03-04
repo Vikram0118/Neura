@@ -37,16 +37,16 @@ const App = () => {
         <Route exact path= 'Literary/BringThingsToLife' element={<BringThingsToLife />}></Route>
 
         {/* technical route */}
-        <Route exact path= 'Technical/Rallycoding' element={<AdaptTunes />}></Route>
-        <Route exact path= 'Technical/BlindCoding' element={<SeriesQuiz />}></Route>
-        <Route exact path= 'Technical/WebDesign' element={<SoloDance />}></Route>
-        <Route exact path= 'Technical/TechnicalQuiz' element={<SoloSinging />}></Route>
-        <Route exact path= 'Technical/DebugCode' element={<PushUps />}></Route>
-        <Route exact path= 'Gaming/BGMI' element={<TreasureHunt />}></Route>
-        <Route exact path= 'Gaming/FreeFire' element={<VVG />}></Route>
-        <Route exact path= 'Gaming/BombSquad' element={<VVS />}></Route>
-        <Route exact path= 'Gaming/ClashRoyale' element={<Eatathon />}></Route>
-        <Route exact path= 'Gaming/MiniMilita' element={<BackToSch />}></Route>
+        <Route exact path= 'NonTechnical/AdaptTunes' element={<AdaptTunes />}></Route>
+        <Route exact path= 'NonTechnical/SeriesQuiz' element={<SeriesQuiz />}></Route>
+        <Route exact path= 'NonTechnical/SoloDancing' element={<SoloDance />}></Route>
+        <Route exact path= 'NonTechnical/SoloSinging' element={<SoloSinging />}></Route>
+        <Route exact path= 'NonTechnical/PushUps' element={<PushUps />}></Route>
+        <Route exact path= 'NonTechnical/TreasureHunt' element={<TreasureHunt />}></Route>
+        <Route exact path= 'NonTechnical/VarietyVarietyGroup' element={<VVG />}></Route>
+        <Route exact path= 'NonTechnical/VarietyVarietySolo' element={<VVS />}></Route>
+        <Route exact path= 'NonTechnical/Eatathon' element={<Eatathon />}></Route>
+        <Route exact path= 'NonTechnical/BackToSch' element={<BackToSch />}></Route>
         
       </Routes>
 

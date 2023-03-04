@@ -4,7 +4,7 @@ import { Title, Card } from '../../Components'
 const OnlineEvents = () => {
   return (
     <div className='max-w-6xl mx-auto text-2xl px-2 '>
-      <Title text=' 🎮 Gaming Events'/>
+      <Title text=' 🎮 GAMING EVENTS'/>
       <div className='container mx-auto py-3'>
         <div className='grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2 sm:gap-5'>
           <Card title='BGMI' description='Where team matters than individual' linkTo ='/Gaming/BGMI'/>

@@ -6,7 +6,7 @@ import {WordRight} from '../../Components'
 const FreeFire
  = () => {
   return (
-    <div>
+    <div className='bg-white'>
          <div className='bg-backGround w-screen'>
         <div className='max-w-7xl mx-auto flex px-6 py-3 items-center justify-between'>
           <div className=''>

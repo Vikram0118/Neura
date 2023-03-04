@@ -18,11 +18,21 @@ module.exports = {
       },
     },
     colors: {
+      'white-custom' : '#fffef0',
+      'white' : '#FFFFFF',
+      'gold' : '#f2f226',
+      'green' : '#00ff00',
+      'black' : '#000000',
+      // 'gray' : '#cbcbcb',
+
       'backGround' : '#f5f0e1' ,
       'orange' : '#ff6e40',
       'blue' : '#1e3d59',
       'yellow' : '#ffc13b',
       'purple' : '#BF40BF'
+    },
+    fontFamily: {
+      'cinel' : ['Cinzel', 'sans-serif']
     },
   },
   plugins: [],

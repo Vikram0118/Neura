@@ -8,20 +8,21 @@ const Header = () => {
     <div>
       <div className='h-screen max-w-6xl flex items-center justify-between mx-auto'>
           <div className='flex flex-col items-center mx-auto justify-center md:flex-row gap-2'>
-              <img className='w-24 h-24 md:w-1/2 md:h-full' src={logo} />
+              <img className='img-header w-24 h-24 md:w-1/2 md:h-full' src={logo} draggable='false' />
               <div className='flex flex-col justify-between px-6'>
-                  <p className='text-4xl md:text-6xl text-center' >
-                    <span className='hover:text-yellow'>N</span>
-                    <span className='hover:text-yellow'>E</span>
-                    <span className='hover:text-yellow'>U</span>
-                    <span className='hover:text-yellow'>R</span>
-                    <span className='hover:text-yellow'>A</span>
-                    <span className='hover:text-yellow'>2</span>
-                    <span className='hover:text-yellow'>0</span>
-                    <span className='hover:text-yellow'>2</span>
-                    <span className='hover:text-yellow'>3</span>
+                  <p className='text-4xl md:text-6xl text-center font-cinel' >
+                    <span className='hover:text-white-custom'>N</span>
+                    <span className='hover:text-white-custom'>E</span>
+                    <span className='hover:text-white-custom'>U</span>
+                    <span className='hover:text-white-custom'>R</span>
+                    <span className='hover:text-white-custom'>A</span>
+                    <span>&nbsp;</span>
+                    <span className='hover:text-white-custom'>2</span>
+                    <span className='hover:text-white-custom'>0</span>
+                    <span className='hover:text-white-custom'>2</span>
+                    <span className='hover:text-white-custom'>3</span>
                   </p>
-                  <WordRight text='This is the slogan we choose'/>
+                  <WordRight text='Being Anonymous Is A Gift'/>
                   <WordLeft text='March 13 & 14'/>
               </div>
           </div>

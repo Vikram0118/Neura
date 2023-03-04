@@ -4,7 +4,7 @@ import { Title, Card } from '../../Components'
 const NonTechnical = () => {
   return (
     <div className='max-w-6xl mx-auto text-2xl px-2 scroll-mt-40 '>
-      <Title text='💃 Non Technical Events'/>
+      <Title text='💃 NON TECHNICAL EVENTS'/>
       <div className='container mx-auto py-3'>
         <div className='grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2 sm:gap-5'>
           <Card title='Adapt Tunes' description='Where team matters than individual' linkTo ='/NonTechnical/AdaptTunes'/>
@@ -14,8 +14,8 @@ const NonTechnical = () => {
           <Card title='Series Quiz' description='Where team matters than individual' linkTo ='/NonTechnical/SeriesQuiz'/>
           <Card title='Solo Dancing' description='Where team matters than individual' linkTo ='/NonTechnical/SoloDancing'/>
           <Card title='Solo Singing' description='Where team matters than individual' linkTo ='/NonTechnical/SoloSinging'/>
-          <Card title='Variety Variety Solo' description='Where team matters than individual' linkTo ='/NonTechnical/Variety Variety Solo'/>
-          <Card title='Variety Variety Group' description='Where team matters than individual' linkTo ='/NonTechnical/Variety Variety Group'/>
+          <Card title='Variety Variety Solo' description='Where team matters than individual' linkTo ='/NonTechnical/VarietyVarietySolo'/>
+          <Card title='Variety Variety Group' description='Where team matters than individual' linkTo ='/NonTechnical/VarietyVarietyGroup'/>
           <Card title='Treasure Hunt' description='Where team matters than individual' linkTo ='/NonTechnical/TreasureHunt'/>
           <Card title='On Spot PhotoGraphy' description='Where team matters than individual' linkTo ='/NonTechnical/SpotPhoto'/>
         </div>
