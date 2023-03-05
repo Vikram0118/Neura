@@ -4,26 +4,23 @@
 @tailwind utilities;
 
 
-.root{
+/* .main-App{
     background: #0b0b0b;
     background-image: url('./Assets/background.svg');
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
     background-size:cover;
-}
+} */
 
 .img-header {
     pointer-events: none;
 }
 
-.about_card {
-    background-image: url('./Assets//neurabg.png');
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
+.footer-svg {
+    pointer-events: none;
 }
 
-.footer-svg {
+.svg-hidden {
     pointer-events: none;
 }

@@ -7,6 +7,8 @@ import {RallyCoding, BlindCoding, WebDesign, TechnicalQuiz, DebugCode} from './E
 import {BGMI, FreeFire, BombSquad, MiniMilita, ClashRoyale} from './Events'
 import {BringThingsToLife, Extempore,  Potpourri, SpellBee} from './Events'
 import {AdaptTunes, VVG, VVS, BackToSch, Eatathon, PushUps, SeriesQuiz, SoloDance, SoloSinging, TreasureHunt, SpotPhoto} from './Events'
+// import {ScrollToTop} from './Components'
+
 
 const App = () => {
   return (
@@ -14,6 +16,7 @@ const App = () => {
     <div className='overflow-x-hidden'>
 
       <Routes>
+        
         <Route exact path='/' element={<MainApp />}></Route>
 
         {/* technical route */}

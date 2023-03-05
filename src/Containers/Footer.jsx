@@ -16,7 +16,7 @@ const Footer = () => {
         <div className='text-xs md:text-base font-thin text-white-custom'>
         Built by <a href="https://www.linkedin.com/in/vikram-palani" target='_blank'>
                       <span className='z-10 hover:text-gold'>&lt;Vikram/&gt;</span>
-                      <span className='animate-pulse z-10'>💖</span>
+                      <span className='animate-pulse z-10'>🖤</span>
                     </a> 
         </div>
       </div>

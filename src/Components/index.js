@@ -5,4 +5,5 @@ export {default as Title} from './Title'
 export {default as Card} from './Card'
 export {default as AboutUs} from './AboutUs/AboutUs'
 export {default as AboutCard} from './AboutUs/AboutCard'
-
+export {default as IndividualTitle} from './IndividualTitle'
+// export {default as ScrollToTop} from './ScrollToTop'

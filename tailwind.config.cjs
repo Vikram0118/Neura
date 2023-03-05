@@ -34,6 +34,9 @@ module.exports = {
     fontFamily: {
       'cinel' : ['Cinzel', 'sans-serif']
     },
+    backgroundImage: {
+      'blur-svg': "url('./Assets/background.svg')",
+    }
   },
   plugins: [],
 }
