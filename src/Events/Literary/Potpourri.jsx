@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
-import {logo, potpuri} from '../import';
+import {logo, potPuri} from '../import';
 import {IndividualTitle} from '../../Components'
 
 const Potpourri = () => {
@@ -21,7 +21,7 @@ const Potpourri = () => {
         <div className='flex max-w-6xl h-auto flex-col items-center justify-start mt-8 gap-10 mx-2 sm:mx-auto'>
           <IndividualTitle text='POT POURRI' />
           <div className='sm:flex'>
-            <img src={potpuri} alt="" className='svg-hidden sm:w-96 sm:h-96'/>
+            <img src={potPuri} alt="" className='svg-hidden sm:w-96 sm:h-96'/>
             <div className='flex flex-col mx-2 text-left gap-2 '>
               <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>REGISTRATION FEE</span> : INR 100 </div>
               <div>

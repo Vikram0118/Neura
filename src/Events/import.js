@@ -14,7 +14,7 @@ import miniMilita from '../Assets/Gaming/miniMilita.svg'
 
 import bringThingsToLife from '../Assets/Literary/bringThingsToLife.svg'
 import extemphore from '../Assets/Literary/extemphore.svg'
-import potpuri from '../Assets/Literary/potpuri.svg'
+import potPuri from '../Assets/Literary/potPuri.svg'
 import spellBee from '../Assets/Literary/spellBee.svg'
 
 export {
@@ -34,6 +34,6 @@ export {
 
     bringThingsToLife,
     extemphore,
-    potpuri,
+    potPuri,
     spellBee
 }
