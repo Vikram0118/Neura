@@ -12,6 +12,7 @@ const Navbar = () => {
         <span
           style={{ transform: `translateX(${completion - 100}%)`}} 
           className='absolute w-full h-[1.5px] bg-gold top-0'></span>
+        
         <div className='max-w-7xl mx-auto flex px-6 py-3 items-center justify-between'>
           <div className=''>
             <a href="#" className='flex gap-5 items-center' onClick={() =>{ 
@@ -44,8 +45,8 @@ const Navbar = () => {
 
             </div>
         </div>
-
         </div>
+        
       </div>
   )
 }

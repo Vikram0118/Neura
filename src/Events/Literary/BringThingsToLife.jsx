@@ -24,21 +24,20 @@ const BringThingsToLife = () => {
             <img src={bringThingsToLife} alt="" className='svg-hidden sm:w-96 sm:h-96'/>
             <div className='flex flex-col mx-2 text-left gap-2 '>
               <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>REGISTRATION FEE</span> : INR 100 </div>
+              <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>PRIZE AMOUNT</span> : INR 4000 </div>
               <div>
-                <p className='font-medium text-lg sm:text-xl'>RULES : </p>
                 <ul className='flex flex-col gap-2 text-b ase sm:text-lg my-3'> 
-                  <li>1. EACH TEAM SHOULD HAVE 2 MEMBERS. </li>
-                  <li>2. ONE INTERMIDIATE LEVEL QUESTION WILL BE GIVEN. </li>
-                  <li>3. AFTER DISCUSSING FOR 5 MINUTES FIRST ONE FROM THE TEAM WILL START SOLVING THE PROBLEM. </li>
-                  <li>4. AFTER 10 MINUTES SECOND PERSON HAVE TO CONTINUE SOLVING THE SAME PROBLEM. </li>
-                  <li className='font-light'>( SWAPPING OF TEAM MATE WILL BE DONE ONLY AFTER 10 MIN AND EACH TEAM MATE NEED TO WORK FOR 10 MINUTES BEFORE SWAPPING )</li>
-                  <li>5. FIRST TEAM TO COME UP WITH A SOLUTION WINS. </li>
-                  <li>6. IF TWO TEAM COMPLETES AT THE SAME TIME THEN TIME COMPLEXITY WILL BE CONSIDERED. </li>
+                <li>1. THE PARTICIPANT WOULD BE GIVEN A RANDOM THING ON THE SPOT. </li>
+                <li>2. THE PARTICIPANT HAS TO GET INTO THE SHOES OF THAT INANIMATE THING AND SAY WHAT THE THING WOULD HAVE SAID IF IT COULD SPEAK. </li>
+                <li>3. IT IS UPTO THE PARTICIPANT'S CREATIVITY, HOW THEY DESCRIBE THEIR THOUGHTS AND EXPERIENCES. </li>
+                <li>4. PREPARATION TIME: 2 MINUTE. </li>
+                <li>5. DURATION: 3 MINUTES. </li>
                 </ul>
               </div>
               <div className='bg-backGround rounded-xl py-2 px-5 space-y-3'>
-                <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>REGISTRATION</span> : ONLY SPOT REGISTACTION</div>
-                <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>FOR FURTHER DETAILS CONTACT</span> : VIKRAM - 9443615349</div>
+              <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>REGISTRATION</span> : <a href='' className='hover:text-orange'>LINK</a> ( SPOT REGISTRATION ALSO AVAILABLE )</div>
+
+                <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>FOR FURTHER DETAILS CONTACT</span> : SREE VYSHNAVI - 9843508506</div>
               </div>
             </div>
           </div>

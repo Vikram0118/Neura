@@ -17,6 +17,20 @@ import extemphore from '../Assets/Literary/extemphore.svg'
 import potPuri from '../Assets/Literary/potPuri.svg'
 import spellBee from '../Assets/Literary/spellBee.svg'
 
+
+import adaptTunes from '../Assets/NonTechnical/adaptTunes.svg'
+import backToSch from '../Assets/NonTechnical/backToSch.svg'
+import eatathon from '../Assets/NonTechnical/eatathon.svg'
+import pushUps from '../Assets/NonTechnical/pushUps.svg'
+import seriesQuiz from '../Assets/NonTechnical/seriesQuiz.svg'
+import soloDance from '../Assets/NonTechnical/soloDance.svg'
+import soloSinging from '../Assets/NonTechnical/soloSinging.svg'
+import spotPhotograph from '../Assets/NonTechnical/spotPhotograph.svg'
+import treasureHunt from '../Assets/NonTechnical/treasureHunt.svg'
+import VVGsvg from '../Assets/NonTechnical/vvg.svg'
+import VVSsvg from '../Assets/NonTechnical/vvs.svg'
+
+
 export {
     logo,
 
@@ -35,5 +49,17 @@ export {
     bringThingsToLife,
     extemphore,
     potPuri,
-    spellBee
+    spellBee,
+
+    adaptTunes,
+    backToSch,
+    eatathon,
+    pushUps,
+    seriesQuiz,
+    soloDance,
+    soloSinging,
+    spotPhotograph,
+    treasureHunt,
+    VVGsvg,
+    VVSsvg
 }

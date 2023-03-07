@@ -50,6 +50,7 @@ const App = () => {
         <Route exact path= 'NonTechnical/VarietyVarietySolo' element={<VVS />}></Route>
         <Route exact path= 'NonTechnical/Eatathon' element={<Eatathon />}></Route>
         <Route exact path= 'NonTechnical/BackToSch' element={<BackToSch />}></Route>
+        <Route exact path= 'NonTechnical/SpotPhoto' element={<SpotPhoto />}></Route>
         
       </Routes>
 
