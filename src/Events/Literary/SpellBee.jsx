@@ -23,18 +23,20 @@ const SpellBee = () => {
           <div className='sm:flex'>
             <img src={spellBee} alt="" className='svg-hidden sm:w-96 sm:h-96'/>
             <div className='flex flex-col mx-2 text-left gap-2 '>
-              <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>REGISTRATION FEE</span> : INR 100 </div>
-              <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>PRIZE AMOUNT</span> : INR 4000 </div>
+              <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>REGISTRATION FEE</span> : INR 50 </div>
+              <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>PRIZE AMOUNT</span> : INR 1500 </div>
               <div>
                 <ul className='flex flex-col gap-2 text-b ase sm:text-lg my-3'> 
                   <li>1. THE WORDS WILL BE PRONOUNCED BY THE JUDGE. </li>
                   <li>2. THE PARTICIPANTS HAVE TO WRITE THE WORDS ON THE SHEET PROVIDED. </li>
                   <li>3. THE PARTICIPANTS CAN ASK FOR REPEATING THE WORD IF REQUIRED. </li>
                   <li>4. JUDGING WILL BE BASED ON THE NUMBER OF WORDS CORRECTLY SPELLED. </li>
+                  <li>5. DECISION MADE BY THE CO-ORDINATORS WILL BE FINAL IN ALL ASPECTS. </li>
+
                 </ul>
               </div>
               <div className='bg-backGround rounded-xl py-2 px-5 space-y-3'>
-                <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>REGISTRATION</span> : <a href='' className='hover:text-orange'>LINK</a> ( SPOT REGISTRATION ALSO AVAILABLE )</div>
+                <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>REGISTRATION</span> : <a href='https://forms.gle/cNPZNvvXCSC58j4e8' target='_blank' className='hover:text-orange'><span className='text-red hover:text-green underline'>LINK</span></a> ( SPOT REGISTRATION ALSO AVAILABLE )</div>
                 <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>FOR FURTHER DETAILS CONTACT</span> : FAAIZA - 8270807937</div>
               </div>
             </div>

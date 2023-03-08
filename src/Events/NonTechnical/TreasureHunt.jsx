@@ -24,20 +24,20 @@ const TreasureHunt = () => {
             <img src={treasureHunt} alt="" className='svg-hidden sm:w-96 sm:h-96'/>
             <div className='flex flex-col mx-2 text-left gap-2 '>
               <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>REGISTRATION FEE</span> : INR 200 </div>
-              <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>PRIZE AMOUNT</span> : INR 4000 </div>
+              <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>PRIZE AMOUNT</span> : INR 4500 </div>
               <div>
                 <ul className='flex flex-col gap-2 text-b ase sm:text-lg my-3'> 
-                  <li>1. EACH TEAM SHOULD HAVE 4 MEMBERS. </li>
-                  <li>2. APK WILL BE PROVIDED ON SPOT. </li>
-                  <li>3. GAME MODE AND MATCH FIXING WILL BE DISCUSSED ON SPOT.  </li>
-                  <li>4. EVERY PLAYER SHOULD BRING THERE OWN DEVICE. </li>
-                  <li>5. IF ANY PLAYER IS FOUND USING ANY HACKS OR GAME BUGS THEN THE WHOLE TEAM WILL BE DISQUALIFIED. </li>
+                  <li>1. EACH TEAM SHOULD HAVE 4-6 MEMBERS. </li>
+                  <li>2. PLAYERS SHOULD GO ALONG WIITH THEIR TEAM TO SEARCH FOR CLUES. </li>
+                  <li>3. TEAM SHOULD BE UNITED TILL THE END.  </li>
+                  <li>4. PLAYERS SHOULD NOT USE VEHICLES. </li>
+                  <li>5. WHEN MORE THAN ONE ANSWER ENCOUNTERED FOR THE SAME CLUE, THE MOST RELEVANT WILL BE CHOSEN. </li>
                   <li>6. DECISION MADE BY THE CO-ORDINATORS WILL BE FINAL IN ALL ASCEPTS. </li>
                 </ul>
               </div>
               <div className='bg-backGround rounded-xl py-2 px-5 space-y-3'>
-                <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>REGISTRATION</span> : <a href='' className='hover:text-orange'>LINK</a> ( SPOT REGISTRATION ALSO AVAILABLE )</div>
-                <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>FOR FURTHER DETAILS CONTACT</span> : VIKRAM - 9443615349</div>
+                <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>REGISTRATION</span> : <a href='https://forms.gle/2cB9JPtM2aBJPgCBA' target='_blank' className='hover:text-orange'><span className='text-red hover:text-green underline'>LINK</span></a> ( SPOT REGISTRATION ALSO AVAILABLE )</div>
+                <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>FOR FURTHER DETAILS CONTACT</span> : BANNUPRIYA - 9791691443</div>
               </div>
             </div>
           </div>

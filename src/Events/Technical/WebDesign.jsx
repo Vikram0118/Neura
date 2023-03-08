@@ -24,20 +24,19 @@ const WebDesign = () => {
             <img src={webDesign} alt="" className='svg-hidden sm:w-96 sm:h-96'/>
             <div className='flex flex-col mx-2 text-left gap-2 '>
               <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>REGISTRATION FEE</span> : INR 100 </div>
-              <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>PRIZE AMOUNT</span> : INR 5000 </div>
+              <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>PRIZE AMOUNT</span> : INR 3200 </div>
 
               <div>
                 <ul className='flex flex-col gap-2 text-b ase sm:text-lg my-3'> 
                   <li>1. IT IS A INDIVIDUAL COMPETITION. </li>
-                  <li><span className='font-medium'>TASK - 1</span>PARTICIPANTS HAVE TO CLONE THE GIVEN DESIGNS. </li>
-                  <li><span className='font-medium'>TASK - 1</span>PARTICIPANTS HAVE TO DESIGN AN APP WITH THE GIVEN ASSETS </li>
-                  <li>4. AFTER 10 MINUTES SECOND PERSON HAVE TO CONTINUE SOLVING THE SAME PROBLEM. </li>
-                  <li>5. FIRST TEAM TO COME UP WITH A SOLUTION WINS. </li>
-                  <li>6. IF TWO TEAM COMPLETES AT THE SAME TIME THEN TIME COMPLEXITY WILL BE CONSIDERED. </li>
+                  <li><span className='font-medium'>TASK - 1</span> - PARTICIPANTS HAVE TO CLONE THE GIVEN DESIGNS. </li>
+                  <li><span className='font-medium'>TASK - 2</span> - PARTICIPANTS HAVE TO DESIGN AN APP WITH THE GIVEN ASSETS </li>
+                  <li>4. WINNERS WILL BE SELECTED BASED ON THE RESULTS OF THE TWO TASKS. </li>
+                  <li>5. DECISION MADE BY THE CO-ORDINATORS WILL BE FINAL IN ALL ASCEPTS.  </li>
                 </ul>
               </div>
               <div className='bg-backGround rounded-xl py-2 px-5 space-y-3'>
-              <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>REGISTRATION</span> : <a href='' className='hover:text-orange'>LINK</a> ( SPOT REGISTRATION ALSO AVAILABLE )</div>
+              <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>REGISTRATION</span> : <a href='https://forms.gle/DxkSk6gzTS98wha99' target='_blank' className='hover:text-orange '><span className=' underline text-red hover:text-green'>LINK</span></a> ( SPOT REGISTRATION ALSO AVAILABLE )</div>
 
                 <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>FOR FURTHER DETAILS CONTACT</span> : VIKRAM - 9443615349</div>
               </div>

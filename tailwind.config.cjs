@@ -23,6 +23,7 @@ module.exports = {
       'gold' : '#f2f226',
       'green' : '#00ff00',
       'black' : '#000000',
+      'red' : '#ff0000',
       // 'gray' : '#cbcbcb',
 
       'backGround' : '#f5f0e1' ,

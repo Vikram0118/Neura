@@ -10,7 +10,7 @@ const BlindCoding = () => {
           <div className='max-w-7xl mx-auto flex px-6 py-3 items-center justify-between'>
             <div className='flex gap-5 items-center'>
                 <img src={logo} className='w-9 h-10'/> 
-                <p className='text-lg md:text-2xl text-white font-cinel'>NEURA 2K23</p>
+                <p className='text-lg md:text-2xl text-white font-cinel'>NEURA 2023</p>
             </div>
             <div className='flex gap-5 text-sm sm:text-xl'>
               <Link to='/'><button className='rounded-lg px-2 py-1 hover:bg-orange'>BACK</button></Link>
@@ -23,22 +23,20 @@ const BlindCoding = () => {
           <div className='sm:flex'>
             <img src={blindCoding} alt="" className='svg-hidden sm:w-96 sm:h-96'/>
             <div className='flex flex-col mx-2 text-left gap-2 '>
-              <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>REGISTRATION FEE</span> : INR 100 </div>
-              <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>PRIZE AMOUNT</span> : INR 5000 </div>
+              <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>REGISTRATION FEE</span> : INR 50 </div>
+              <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>PRIZE AMOUNT</span> : INR 1600 </div>
 
               <div>
                 <ul className='flex flex-col gap-2 text-b ase sm:text-lg my-3'> 
-                  <li>1. EACH TEAM SHOULD HAVE 2 MEMBERS. </li>
-                  <li>2. ONE INTERMIDIATE LEVEL QUESTION WILL BE GIVEN. </li>
-                  <li>3. AFTER DISCUSSING FOR 5 MINUTES FIRST ONE FROM THE TEAM WILL START SOLVING THE PROBLEM. </li>
-                  <li>4. AFTER 10 MINUTES SECOND PERSON HAVE TO CONTINUE SOLVING THE SAME PROBLEM. </li>
-                  <li className='font-light'>( SWAPPING OF TEAM MATE WILL BE DONE ONLY AFTER 10 MIN AND EACH TEAM MATE NEED TO WORK FOR 10 MINUTES BEFORE SWAPPING )</li>
-                  <li>5. FIRST TEAM TO COME UP WITH A SOLUTION WINS. </li>
-                  <li>6. IF TWO TEAM COMPLETES AT THE SAME TIME THEN TIME COMPLEXITY WILL BE CONSIDERED. </li>
+                  <li><span className='font-medium'>1. ROUND 1 :</span> PARTICIPANTS ARE NOT ALLOWED TO COMPILE THE CODE TILL THEY FINISH. </li>
+                  <li>2. ROUND 1 JUDGING WILL BE BASED ON THE NUMBER OF ERRORS AFTER COMPILATION (IF ANY). </li>
+                  <li><span className='font-medium'>3. ROUND 2 :</span> PARTICIPANTS ARE RESTRICTED FROM USING MONITOR WHILE CODING. </li>
+                  <li>4. JUDGING IN ROUND 2 UDGING WILL BE BASED ON THE NUMBER OF ERRORS AFTER COMPILATION (IF ANY). </li>
+                  <li>6. IF TWO PARTICIPANTS COMPLETES AT THE SAME TIME THEN TIME COMPLEXITY WILL BE CONSIDERED. </li>
                 </ul>
               </div>
               <div className='bg-backGround rounded-xl py-2 px-5 space-y-3'>
-                <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>REGISTRATION</span> : <a href='' className='hover:text-orange'>LINK</a> ( SPOT REGISTRATION ALSO AVAILABLE )</div>
+                <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>REGISTRATION</span> : <a href='https://forms.gle/yaFhLxGNd6F1b5K89' target='_blank' className='hover:text-orange'><span className='underline text-red hover:text-green'>LINK</span></a> ( SPOT REGISTRATION ALSO AVAILABLE )</div>
                 <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>FOR FURTHER DETAILS CONTACT</span> : VIKRAM - 9443615349</div>
               </div>
             </div>

@@ -22,6 +22,7 @@ export {default as Extempore} from './Literary/Extempore'
 export {default as BringThingsToLife} from './Literary/BringThingsToLife'
 export {default as Potpourri} from './Literary/Potpourri'
 export {default as SpellBee} from './Literary/SpellBee'
+export {default as WhatsTheClimax} from './Literary/WhatsTheClimax'
 
 // non techincal events
 export {default as AdaptTunes} from './NonTechnical/AdaptTunes'

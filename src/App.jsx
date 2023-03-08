@@ -5,7 +5,7 @@ import { Routes,Link, Route} from 'react-router-dom';
 
 import {RallyCoding, BlindCoding, WebDesign, TechnicalQuiz, DebugCode} from './Events';
 import {BGMI, FreeFire, BombSquad, MiniMilita, ClashRoyale} from './Events'
-import {BringThingsToLife, Extempore,  Potpourri, SpellBee} from './Events'
+import {BringThingsToLife, Extempore,  Potpourri, SpellBee, WhatsTheClimax} from './Events'
 import {AdaptTunes, VVG, VVS, BackToSch, Eatathon, PushUps, SeriesQuiz, SoloDance, SoloSinging, TreasureHunt, SpotPhoto} from './Events'
 // import {ScrollToTop} from './Components'
 
@@ -38,6 +38,7 @@ const App = () => {
         <Route exact path= 'Literary/Potpourri' element={<Potpourri />}></Route>
         <Route exact path= 'Literary/Extempore' element={<Extempore />}></Route>
         <Route exact path= 'Literary/BringThingsToLife' element={<BringThingsToLife />}></Route>
+        <Route exact path= '/Literary/WhatsTheClimax' element={<WhatsTheClimax />}></Route>
 
         {/* technical route */}
         <Route exact path= 'NonTechnical/AdaptTunes' element={<AdaptTunes />}></Route>
