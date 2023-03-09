@@ -19,7 +19,7 @@ const TreasureHunt = () => {
         </div>
 
         <div className='flex max-w-6xl h-auto flex-col items-center justify-start mt-8 gap-10 mx-2 sm:mx-auto'>
-          <IndividualTitle text='TREASURE HUNT' />
+          <IndividualTitle text='SCAVENGERS HUNT' />
           <div className='sm:flex'>
             <img src={treasureHunt} alt="" className='svg-hidden sm:w-96 sm:h-96'/>
             <div className='flex flex-col mx-2 text-left gap-2 '>
@@ -37,7 +37,7 @@ const TreasureHunt = () => {
               </div>
               <div className='bg-backGround rounded-xl py-2 px-5 space-y-3'>
                 <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>REGISTRATION</span> : <a href='https://forms.gle/2cB9JPtM2aBJPgCBA' target='_blank' className='hover:text-orange'><span className='text-red hover:text-green underline'>LINK</span></a> ( SPOT REGISTRATION ALSO AVAILABLE )</div>
-                <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>FOR FURTHER DETAILS CONTACT</span> : BANNUPRIYA - 9791691443</div>
+                <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>FOR FURTHER DETAILS CONTACT</span> : BAANUPRIYA - 9791691443</div>
               </div>
             </div>
           </div>

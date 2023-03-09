@@ -27,7 +27,7 @@ const ClashRoyale = () => {
               <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>PRIZE AMOUNT</span> : INR 3000 </div>
               <div>
                 <ul className='flex flex-col gap-2 text-b ase sm:text-lg my-3'> 
-                  <li>1. EACH TEAM SHOULD HAVE 2 MEMBERS. </li>
+                  <li>1. IT IS A SOLO CONTEST. </li>
                   <li>2. ALL ROUNDS ARE BEST OF THREE KNOCKOUT BASIS. </li>
                   <li>3. GAME MODE AND MATCH FIXING WILL BE DISCUSSED ON SPOT.  </li>
                   <li>4. EVERY PLAYER SHOULD BRING THERE OWN DEVICE. </li>

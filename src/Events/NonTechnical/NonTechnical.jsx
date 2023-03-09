@@ -16,7 +16,7 @@ const NonTechnical = () => {
           <Card title='Solo Singing' description='Sing for Life' linkTo ='/NonTechnical/SoloSinging'/>
           <Card title='Variety Variety Solo' description="Whatelse a solo can't do" linkTo ='/NonTechnical/VarietyVarietySolo'/>
           <Card title='Variety Variety Group' description='Move together, feel the rhythm' linkTo ='/NonTechnical/VarietyVarietyGroup'/>
-          <Card title='Treasure Hunt' description='Hunt for Life' linkTo ='/NonTechnical/TreasureHunt'/>
+          <Card title='Scavenger Hunt' description='Hunt for Life' linkTo ='/NonTechnical/TreasureHunt'/>
           <Card title='On Spot PhotoGraphy' description='Capture moments, tell your story.' linkTo ='/NonTechnical/SpotPhoto'/>
         </div>
       </div>
