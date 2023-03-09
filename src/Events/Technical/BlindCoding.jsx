@@ -31,7 +31,7 @@ const BlindCoding = () => {
                   <li><span className='font-medium'>1. ROUND 1 :</span> PARTICIPANTS ARE NOT ALLOWED TO COMPILE THE CODE TILL THEY FINISH. </li>
                   <li>2. ROUND 1 JUDGING WILL BE BASED ON THE NUMBER OF ERRORS AFTER COMPILATION (IF ANY). </li>
                   <li><span className='font-medium'>3. ROUND 2 :</span> PARTICIPANTS ARE RESTRICTED FROM USING MONITOR WHILE CODING. </li>
-                  <li>4. JUDGING IN ROUND 2 UDGING WILL BE BASED ON THE NUMBER OF ERRORS AFTER COMPILATION (IF ANY). </li>
+                  <li>4. JUDGING IN ROUND 2 WILL BE BASED ON THE NUMBER OF ERRORS AFTER COMPILATION (IF ANY). </li>
                   <li>6. IF TWO PARTICIPANTS COMPLETES AT THE SAME TIME THEN TIME COMPLEXITY WILL BE CONSIDERED. </li>
                 </ul>
               </div>

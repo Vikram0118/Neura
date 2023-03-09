@@ -27,7 +27,7 @@ const TechnicalQuiz = () => {
               <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>PRIZE AMOUNT</span> : INR 1600 </div>
               <div>
                 <ul className='flex flex-col gap-2 text-b ase sm:text-lg my-3'> 
-                  <li>1. IT IS A INDIVIDUAL CONTEST. </li>
+                  <li>1. IT IS AN INDIVIDUAL CONTEST. </li>
                   <li>2. CONTEST WILL BE CONDUCTED IN SEVERAL ROUNDS. </li>
                   <li>3. QUESTIONS INCLUDES TECHNICAL CONNECTION AS WELL. </li>
                   <li>4. DECISION MADE BY THE CO-ORDINATORS WILL BE FINAL IN ALL ASPECTS</li>

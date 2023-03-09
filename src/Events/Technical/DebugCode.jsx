@@ -27,9 +27,10 @@ const DebugCode = () => {
               <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>PRIZE AMOUNT</span> : INR 3200 </div>
               <div>
                 <ul className='flex flex-col gap-2 text-b ase sm:text-lg my-3'> 
-                  <li>1. PARTICIPANTS HAVE TO FIND THE ERRORS IN THE GIVEN CODE SNIPPET. </li>
-                  <li>2. WILL BE CONDUCTED IN 2 ROUNDS. </li>
-                  <li>3. DECISION MADE BY THE CO-ORDINATORS WILL BE FINAL IN ALL ASPECTS. </li>
+                  <li>1. EACH TEAM CAN HAVE A MAXIMUM OF TWO MEMEBERS. </li>
+                  <li>2. PARTICIPANTS HAVE TO FIND THE ERRORS IN THE GIVEN CODE SNIPPET. </li>
+                  <li>3. WILL BE CONDUCTED IN 2 ROUNDS. </li>
+                  <li>4. DECISION MADE BY THE CO-ORDINATORS WILL BE FINAL IN ALL ASPECTS. </li>
                 </ul>
               </div>
               <div className='bg-backGround rounded-xl py-2 px-5 space-y-3'>
