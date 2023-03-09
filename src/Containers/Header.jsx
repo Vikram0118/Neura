@@ -22,7 +22,7 @@ const Header = () => {
                     <span className='hover:text-white'>2</span>
                     <span className='hover:text-white'>3</span>
                   </p>
-                  <WordRight text='Tech -A- Rest'/>
+                  <WordRight text='Tech A-rest'/>
                   <WordLeft text='March 13 & 14'/>
               </div>
           </div>
