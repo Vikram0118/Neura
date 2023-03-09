@@ -6,7 +6,7 @@ const AboutCard = ({img, title, desc, linkTo}) => {
         <div class="about_card w-full rounded-md mx-auto max-w-5xl items-center ">
             <div className=' bg-backGround p-5 rounded-md mx-3 my-15 sm:mx-auto flex flex-row '>
                 <div className=' flex flex-col items-center justify-start gap-1'>
-                    <div className=' text-sm sm:text-3xl font-medium'>{title}</div>
+                    <div className=' text-sm sm:text-3xl font-medium sm:font-semibold text-blue'>{title}</div>
                     <div className='font-extralight md:text-lg'>&nbsp;&nbsp;&nbsp;&nbsp; {desc}</div>
                 </div>
             </div>
