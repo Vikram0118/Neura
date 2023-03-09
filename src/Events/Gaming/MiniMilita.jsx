@@ -30,7 +30,7 @@ const MiniMilita = () => {
                   <li>1. EACH TEAM SHOULD HAVE 4 MEMBERS. </li>
                   <li>2. APK WILL BE PROVIDED ON SPOT. </li>
                   <li>3. GAME MODE AND MATCH FIXING WILL BE DISCUSSED ON SPOT.  </li>
-                  <li>4. EVERY PLAYER SHOULD BRING THERE OWN DEVICE. </li>
+                  <li>4. EVERY PLAYER SHOULD BRING THEIR OWN DEVICE. </li>
                   <li>5. IF ANY PLAYER IS FOUND USING ANY HACKS OR GAME BUGS THEN THE WHOLE TEAM WILL BE DISQUALIFIED. </li>
                   <li>6. DECISION MADE BY THE CO-ORDINATORS WILL BE FINAL IN ALL ASPECTS. </li>
                 </ul>

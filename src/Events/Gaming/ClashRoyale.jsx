@@ -30,13 +30,13 @@ const ClashRoyale = () => {
                   <li>1. IT IS A SOLO CONTEST. </li>
                   <li>2. ALL ROUNDS ARE BEST OF THREE KNOCKOUT BASIS. </li>
                   <li>3. GAME MODE AND MATCH FIXING WILL BE DISCUSSED ON SPOT.  </li>
-                  <li>4. EVERY PLAYER SHOULD BRING THERE OWN DEVICE. </li>
+                  <li>4. EVERY PLAYER SHOULD BRING THEIR OWN DEVICE. </li>
                   <li>5. IF ANY PLAYER IS FOUND USING ANY HACKS OR GAME BUGS THEN THE WHOLE TEAM WILL BE DISQUALIFIED. </li>
                   <li>6. DECISION MADE BY THE CO-ORDINATORS WILL BE FINAL IN ALL ASPECTS. </li>
                 </ul>
               </div>
               <div className='bg-backGround rounded-xl py-2 px-5 space-y-3'>
-                <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>REGISTRATION</span> : ONLY SPOT REGISTRATION</div>
+              <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>REGISTRATION</span> : <a href='https://forms.gle/ivUDMN2H5C7jTDer8' target='_blank' className='hover:text-orange'><span className='text-red hover:text-green underline'>LINK</span></a> ( SPOT REGISTRATION ALSO AVAILABLE )</div>
                 <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>FOR FURTHER DETAILS CONTACT</span> : BARATH P - 9655334177</div>
               </div>
             </div>
@@ -47,3 +47,4 @@ const ClashRoyale = () => {
 }
 
 export default ClashRoyale
+

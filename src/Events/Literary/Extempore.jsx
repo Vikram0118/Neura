@@ -34,13 +34,13 @@ const Extemphore = () => {
                  <li>4. THE JUDGING SHALL BE BASED ON THE CONTENT DELIVERED, LANGUAGE AND OVERALL PRESENTATION. </li>
                  <li>5. PREPARATION TIME: 2 MINUTES. </li>
                  <li>6. DURATION: 3 MINUTES.</li>
-                 <li>5. DECISION MADE BY THE CO-ORDINATORS WILL BE FINAL IN ALL ASPECTS. </li>
+                 <li>7. DECISION MADE BY THE CO-ORDINATORS WILL BE FINAL IN ALL ASPECTS. </li>
 
                 </ul>
               </div>
               <div className='bg-backGround rounded-xl py-2 px-5 space-y-3'>
               <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>REGISTRATION</span> : <a href='https://forms.gle/T726hXL7rGWZ1S2D9' target='_blank' className='hover:text-orange'><span className='text-red hover:text-green underline'>LINK</span></a> ( SPOT REGISTRATION ALSO AVAILABLE )</div>
-                <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>FOR FURTHER DETAILS CONTACT</span> : MANIKANDAN K - 9677788720 </div>
+                <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>FOR FURTHER DETAILS CONTACT</span> : MANIKANDAN C - 9677788720 </div>
               </div>
             </div>
           </div>
