@@ -25,6 +25,8 @@ const BombSquad = () => {
             <div className='flex flex-col mx-2 text-left gap-2 '>
               <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>REGISTRATION FEE</span> : INR 200 </div>
               <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>PRIZE AMOUNT</span> : INR 3500 </div>
+              <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>DATE AND TIME</span> : 14 MARCH - 10AM </div>
+              <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>VENUE</span> : SEMINAR HALL - IT, PTU </div>
               <div>
                 <ul className='flex flex-col gap-2 text-b ase sm:text-lg my-3'> 
                   <li>1. EACH TEAM SHOULD HAVE 4 MEMBERS. </li>
