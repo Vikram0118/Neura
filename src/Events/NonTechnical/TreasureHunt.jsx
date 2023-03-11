@@ -29,7 +29,7 @@ const TreasureHunt = () => {
               <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>VENUE</span> : AUDITORIUM OUTDOOR, PTU </div>
               <div>
                 <ul className='flex flex-col gap-2 text-b ase sm:text-lg my-3'> 
-                  <li>1. EACH TEAM SHOULD HAVE 4-6 MEMBERS. </li>
+                  <li>1. EACH TEAM SHOULD HAVE 3-4 MEMBERS. </li>
                   <li>2. PLAYERS SHOULD GO ALONG WIITH THEIR TEAM TO SEARCH FOR CLUES. </li>
                   <li>3. TEAM SHOULD BE UNITED TILL THE END.  </li>
                   <li>4. PLAYERS SHOULD NOT USE VEHICLES. </li>

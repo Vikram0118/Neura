@@ -1,10 +1,10 @@
 import React from 'react'
 import { NavBar, Header, Footer, Body } from './Containers'
 import MainApp from './MainApp';
-import { Routes,Link, Route} from 'react-router-dom';
+import { Routes, Link, Route} from 'react-router-dom';
 
 import {RallyCoding, BlindCoding, WebDesign, TechnicalQuiz, DebugCode} from './Events';
-import {BGMI, FreeFire, BombSquad, MiniMilita, ClashRoyale} from './Events'
+import {BGMI, FreeFire, BombSquad, MiniMilita, ClashRoyale, FootBall} from './Events'
 import {BringThingsToLife, Extempore,  Potpourri, SpellBee, WhatsTheClimax} from './Events'
 import {AdaptTunes, VVG, VVS, BackToSch, Eatathon, PushUps, SeriesQuiz, SoloDance, SoloSinging, TreasureHunt, SpotPhoto} from './Events'
 // import {ScrollToTop} from './Components'
@@ -32,6 +32,8 @@ const App = () => {
         <Route exact path= 'Gaming/BombSquad' element={<BombSquad />}></Route>
         <Route exact path= 'Gaming/ClashRoyale' element={<ClashRoyale />}></Route>
         <Route exact path= 'Gaming/MiniMilita' element={<MiniMilita />}></Route>
+        <Route exact path= 'Gaming/FootBall' element={<FootBall />}></Route>
+
 
          {/* literary route */}
         <Route exact path= 'Literary/SpellBee' element={<SpellBee />}></Route>

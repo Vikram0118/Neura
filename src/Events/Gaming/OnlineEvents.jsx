@@ -12,6 +12,7 @@ const OnlineEvents = () => {
           <Card title='Mini Milita' description="Where size doesn't matter" linkTo ='/Gaming/MiniMilita'/>
           <Card title='Bomb Squad' description="Let's put a Bomb" linkTo ='/Gaming/BombSquad'/>
           <Card title='Free Fire' description='Get those Booyah!' linkTo ='/Gaming/FreeFire'/>
+          <Card title='E-FootBall' description='Make those Goals' linkTo ='/Gaming/FootBall'/>
         </div>
       </div>
     </div>

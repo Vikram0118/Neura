@@ -16,6 +16,7 @@ export {default as ClashRoyale} from './Gaming/ClashRoyale'
 export {default as FreeFire} from './Gaming/FreeFire'
 export {default as MiniMilita} from './Gaming/MiniMilita'
 export {default as BombSquad} from './Gaming/BombSquad'
+export {default as FootBall} from './Gaming/FootBall'
 
 // literay events
 export {default as Extempore} from './Literary/Extempore'
