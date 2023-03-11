@@ -31,7 +31,7 @@ const SeriesQuiz = () => {
                 <ul className='flex flex-col gap-2 text-b ase sm:text-lg my-3'> 
                   <li>1. EACH TEAM SHOULD HAVE 2 MEMBERS. </li>
                   <li>2. THERE WILL BE 5 ROUNDS. </li>
-                  <li>3. QUESTIONS WILL BE ASKED FROM GoT, FRIENDS, WEDNESDAY  </li>
+                  <li>3. QUESTIONS WILL BE ASKED FROM GoT, FRIENDS, Money heist, Wanda vision, Loki </li>
                   <li>4. WINNERS WILL BE DECIDED BASED ON THE SCORE.</li>
                   <li>5. DECISION MADE BY THE CO-ORDINATORS WILL BE FINAL IN ALL ASPECTS. </li>
                 </ul>
