@@ -29,7 +29,7 @@ import spotPhotograph from '../Assets/NonTechnical/spotPhotograph.svg'
 import treasureHunt from '../Assets/NonTechnical/treasureHunt.svg'
 import VVGsvg from '../Assets/NonTechnical/vvg.svg'
 import VVSsvg from '../Assets/NonTechnical/vvs.svg'
-import funzone from '../Assets/NonTechnical/funZone.svg'
+import funzone from '../Assets/NonTechnical/funzone.svg'
 import teasermaking from '../Assets/NonTechnical/teasermaking.svg'
 
 export {
