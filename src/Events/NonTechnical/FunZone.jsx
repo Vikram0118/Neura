@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
-import {logo, pushUps} from '../import';
+import {logo, funzone} from '../import';
 import {IndividualTitle} from '../../Components'
 
 const FunZone = () => {
@@ -21,25 +21,24 @@ const FunZone = () => {
         <div className='flex max-w-6xl h-auto flex-col items-center justify-start mt-8 gap-10 mx-2 sm:mx-auto'>
           <IndividualTitle text='FUN ZONE' />
           <div className='sm:flex'>
-            <img src={pushUps} alt="" className='svg-hidden sm:w-96 sm:h-96'/>
+            <img src={funzone} alt="" className='svg-hidden sm:w-96 sm:h-96'/>
             <div className='flex flex-col mx-2 text-left gap-2 '>
-              <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>REGISTRATION FEE</span> : INR 50 </div>
-              <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>PRIZE AMOUNT</span> : INR 2000 </div>
               <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>DATE AND TIME</span> : 13 MARCH - 3PM </div>
-              <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>VENUE</span> : AUDITORIUM INDOOR - IT, PTU </div>
+              <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>VENUE</span> : AUDITORIUM MUTIPURPOSE AREA, PTU </div>
               <div>
                 <ul className='flex flex-col gap-2 text-b ase sm:text-lg my-3'> 
-                  <li>1. 2 ROUNDS WIILL BE CONDUCTED. </li>
-                  <li>2. EVENTS WILL BE IN HEATS. </li>
-                  <li>3. PERSON WITH MAXIMUM COUNT IN EACH HEATS WILL BE SELECTED FOR FINAL ROUND.  </li>
-                  <li>4. BREAK WILL BE THERE. </li>
-                  <li>5. FINAL ROUND WILL BE CONDUCTED FOR THE SELECTED PERSONS. </li>
-                  <li>6. WINNERS WILL BE CHOSEN FROM THE FINAL ROUND ONLY. </li>
+                  <li className='font-medium'> FUN ZONE OF NEURA INCLUDES VARIOUS EVENTS.  </li>
+                  <li className='font-light'>( REGISTRATION FEE AND PRIZE AMOUNT DIFFERS FOR EVERY EVENT )</li>
+                  <li>1. HAND CRICKET / ODD OR EVEN - BEST OF THREE </li>
+                  <li>2. HIT THE GLASS.  </li>
+                  <li>3. PEN FIGHT </li>
+                  <li>4. POLICE THIEF ( THIRUDAN POLICE) </li>
+                  <li>5. PUT THE BALL IN THE BLOW</li>
                 </ul>
               </div>
               <div className='bg-backGround rounded-xl py-2 px-5 space-y-3'>
-                <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>REGISTRATION</span> : <a href='https://forms.gle/TAEtTkbDV7VpREow7' target='_blank' className='hover:text-orange'><span className='text-red hover:text-green underline'>LINK</span></a> ( SPOT REGISTRATION ALSO AVAILABLE )</div>
-                <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>FOR FURTHER DETAILS CONTACT</span> : KAUSHIK JB - 8220388306</div>
+                <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>REGISTRATION </span>: ONLY SPOT REGISTRATION AVAILABLE</div>
+                <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>FOR FURTHER DETAILS CONTACT</span> : MADHANKUMAR V - 7708138102</div>
               </div>
             </div>
           </div>

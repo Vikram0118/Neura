@@ -4,7 +4,7 @@ import { Routes, Route} from 'react-router-dom';
 
 const MainApp = () => {
   return (
-    <div className="bg-black bg-[url('./Assets/phonebg.svg')] sm:bg-[url('./Assets/march11bg.svg')] bg-no-repeat bg-fixed bg-center bg-cover">
+    <div className="bg-black bg-[url('./Assets/phonebg.svg')] sm:bg-[url('./Assets/background.svg')] bg-no-repeat bg-fixed bg-center bg-cover">
         <NavBar />
         <Header />
         <Body />    

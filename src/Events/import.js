@@ -29,7 +29,8 @@ import spotPhotograph from '../Assets/NonTechnical/spotPhotograph.svg'
 import treasureHunt from '../Assets/NonTechnical/treasureHunt.svg'
 import VVGsvg from '../Assets/NonTechnical/vvg.svg'
 import VVSsvg from '../Assets/NonTechnical/vvs.svg'
-
+import funzone from '../Assets/NonTechnical/funZone.svg'
+import teasermaking from '../Assets/NonTechnical/teasermaking.svg'
 
 export {
     logo,
@@ -52,6 +53,7 @@ export {
     spellBee,
 
     adaptTunes,
+    funzone,
     backToSch,
     eatathon,
     pushUps,
@@ -61,5 +63,6 @@ export {
     spotPhotograph,
     treasureHunt,
     VVGsvg,
-    VVSsvg
+    VVSsvg,
+    teasermaking
 }

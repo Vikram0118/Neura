@@ -35,7 +35,7 @@ const Card = ({title, description, linkTo, index}) => {
                     speed: 450}}
         >    
             <p class="mb-2 text-lg sm:text-2xl font-bold tracking-tight text-blue ">{title}</p>
-            <p class="hidden md:block mb-3 font-light text-lg md:text-xl ">{description}</p>
+            <p class="hidden md:block mb-3 font-light text-lg md:text-lg ">{description}</p>
             <Link to={linkTo} >
               <a href="#" class="inline-flex items-center px-2 py-1 sm:px-3 sm:py-2 text-xs md:text-sm font-medium text-center bg-yellow rounded-xl hover:bg-orange">
                   <button>Read more</button>  

@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
-import {logo, pushUps} from '../import';
+import {logo, teasermaking} from '../import';
 import {IndividualTitle} from '../../Components'
 
 const TeaserMaking = () => {
@@ -19,27 +19,26 @@ const TeaserMaking = () => {
         </div>
 
         <div className='flex max-w-6xl h-auto flex-col items-center justify-start mt-8 gap-10 mx-2 sm:mx-auto'>
-          <IndividualTitle text='TEASER MAKING' />
+          <IndividualTitle text='TEASER MAKER' />
           <div className='sm:flex'>
-            <img src={pushUps} alt="" className='svg-hidden sm:w-96 sm:h-96'/>
+            <img src={teasermaking} alt="" className='svg-hidden sm:w-96 sm:h-96'/>
             <div className='flex flex-col mx-2 text-left gap-2 '>
               <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>REGISTRATION FEE</span> : INR 50 </div>
-              <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>PRIZE AMOUNT</span> : INR 2000 </div>
-              <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>DATE AND TIME</span> : 13 MARCH - 3PM </div>
-              <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>VENUE</span> : AUDITORIUM INDOOR - IT, PTU </div>
+              <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>PRIZE AMOUNT</span> : INR 1500 </div>
+              <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>DATE AND TIME</span> : 13 MARCH - 1:30PM </div>
+              <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>VENUE</span> : ROOM 2 - IT, PTU </div>
               <div>
                 <ul className='flex flex-col gap-2 text-b ase sm:text-lg my-3'> 
-                  <li>1. 2 ROUNDS WIILL BE CONDUCTED. </li>
-                  <li>2. EVENTS WILL BE IN HEATS. </li>
-                  <li>3. PERSON WITH MAXIMUM COUNT IN EACH HEATS WILL BE SELECTED FOR FINAL ROUND.  </li>
-                  <li>4. BREAK WILL BE THERE. </li>
-                  <li>5. FINAL ROUND WILL BE CONDUCTED FOR THE SELECTED PERSONS. </li>
-                  <li>6. WINNERS WILL BE CHOSEN FROM THE FINAL ROUND ONLY. </li>
+                  <li>1. THE PARTICIPANTS WOULD BE GIVEN A SET OF PHOTO'S AND VIDEO CLIPS.  </li>
+                  <li>2. THE GIVEN CLIPS WILL BE BASED ON A THEME. </li>
+                  <li>3. THE PARTICIPANTS SHOULD EDIT A TEASER WITH THE GIVEN CLIPS WITHIN THE GIVEN TIME. </li>
+                  <li>4. PARTICIPANT WITH THE BEST TEASER WILL BE AWARDED. </li>
+                  <li>5. DURATION : 30 MINUTES. </li>
                 </ul>
               </div>
               <div className='bg-backGround rounded-xl py-2 px-5 space-y-3'>
-                <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>REGISTRATION</span> : <a href='https://forms.gle/TAEtTkbDV7VpREow7' target='_blank' className='hover:text-orange'><span className='text-red hover:text-green underline'>LINK</span></a> ( SPOT REGISTRATION ALSO AVAILABLE )</div>
-                <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>FOR FURTHER DETAILS CONTACT</span> : KAUSHIK JB - 8220388306</div>
+                <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>REGISTRATION</span> : <a href='https://forms.gle/WfUHP2JmRTCNFfWcA' target='_blank' className='hover:text-orange'><span className='text-red hover:text-green underline'>LINK</span></a> ( SPOT REGISTRATION ALSO AVAILABLE )</div>
+                <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>FOR FURTHER DETAILS CONTACT</span> : ATHITHYAA R - 8870171995</div>
               </div>
             </div>
           </div>
