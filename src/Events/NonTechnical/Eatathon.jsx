@@ -31,9 +31,9 @@ const Eatathon = () => {
                 <ul className='flex flex-col gap-2 text-b ase sm:text-lg my-3'> 
                   <li>1. FOOD ITEM - PAROTA. </li>
                   <li>2. PARTICIPANTS ARE ASKED TO EAT A TOTAL OF 10 PAROTA. </li>
-                  <li>3. THEY HAVE TO EAT 5 PAROTA FIRST AND THEN A FEW WAFERS THEN NEXT 5 PAROTA.</li>
-                  <li>4. DISCLIMAR REGARDING THE GAME WILL BE MADE MANDATORY REGARDING THE HEALTH OF PERSON PLAYING. </li>
-                  <li>5. IF ANY PLAYER IS FOUND USING ANY HACKS OR GAME BUGS THEN THE WHOLE TEAM WILL BE DISQUALIFIED. </li>
+                  <li>3. GAME IS CONDUCTED SEPARETELY FOR GROUP OF 5 PARTICIPANTS IN EACH GROUP.</li>
+                  <li>4. WHO EVER COMPLETES IN MINIMUM TIME IS SHORT LISTED. </li>
+                  <li>5. IF ANY PLAYER IS FOUND USING ANY HACKS OR GAME BUGS THEN THE HE/SHE WILL BE DISQUALIFIED. </li>
                   <li>6. DECISION MADE BY THE CO-ORDINATORS WILL BE FINAL IN ALL ASCEPTS. </li>
                 </ul>
               </div>
