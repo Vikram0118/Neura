@@ -37,6 +37,9 @@ export {default as SpotPhoto} from './NonTechnical/SpotPhoto'
 export {default as TreasureHunt} from './NonTechnical/TreasureHunt'
 export {default as VVG} from './NonTechnical/VVG'
 export {default as VVS} from './NonTechnical/VVS'
+export {default as FunZone} from './NonTechnical/FunZone'
+export {default as MurderMystery} from './NonTechnical/MurderMystery'
+export {default as TeaserMaking} from './NonTechnical/TeaserMaking'
 
 
 

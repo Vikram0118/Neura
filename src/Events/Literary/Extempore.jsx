@@ -33,9 +33,8 @@ const Extemphore = () => {
                  <li>2. THE TOPIC MAY BE GENERAL OR BASED ON WELL KNOWN CURRENT ISSUES. </li>
                  <li>3. AT THE END OF 2 MINUTES PREPARATION TIME, THE PARTICPANT HAS TO SPEAK THEIR MIND ON THAT TOPIC. </li>
                  <li>4. THE JUDGING SHALL BE BASED ON THE CONTENT DELIVERED, LANGUAGE AND OVERALL PRESENTATION. </li>
-                 <li>5. PREPARATION TIME: 2 MINUTES. </li>
-                 <li>6. DURATION: 3 MINUTES.</li>
-                 <li>7. DECISION MADE BY THE CO-ORDINATORS WILL BE FINAL IN ALL ASPECTS. </li>
+                 <li>5. PREPARATION TIME: 2 MINUTES - DURATION: 3 MINUTES. </li>
+                 <li>6. DECISION MADE BY THE CO-ORDINATORS WILL BE FINAL IN ALL ASPECTS. </li>
 
                 </ul>
               </div>

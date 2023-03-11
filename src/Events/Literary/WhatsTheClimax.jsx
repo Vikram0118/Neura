@@ -27,16 +27,15 @@ const WhatsTheClimax = () => {
               <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>PRIZE AMOUNT</span> : INR 2000 </div>
               <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>DATE AND TIME</span> : 13 MARCH - 12:30PM </div>
               <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>VENUE</span> : ROOM 1 - IT, PTU </div>
-
               <div>
                 <ul className='flex flex-col gap-2 text-b ase sm:text-lg my-3'> 
-                 <li>1. THE PARTICIPANT WOULD BE GIVEN A RANDOM TOPIC ON THE SPOT. </li>
-                 <li>2. THE TOPIC MAY BE GENERAL OR BASED ON WELL KNOWN CURRENT ISSUES. </li>
-                 <li>3. AT THE END OF 2 MINUTES PREPARATION TIME, THE PARTICPANT HAS TO SPEAK THEIR MIND ON THAT TOPIC. </li>
-                 <li>4. THE JUDGING SHALL BE BASED ON THE CONTENT DELIVERED, LANGUAGE AND OVERALL PRESENTATION. </li>
-                 <li>5. PREPARATION TIME: 2 MINUTES. </li>
-                 <li>6. DURATION: 3 MINUTES.</li>
-                 <li>5. DECISION MADE BY THE CO-ORDINATORS WILL BE FINAL IN ALL ASPECTS. </li>
+                 <li>1. THE PARTICIPANTS WOULD BE GIVEN A FEW LINES OF A STORY. </li>
+                 <li>2. IT IS A WRITTEN EVENT. </li>
+                 <li>3. THE STORY MIGHT BE IN ANY GENERAL TOPICS. </li>
+                 <li>4. THE PARTICIPANTS HAVE TO CONTINUE AND FINISH THE STORY WITHIN THE GIVEN WORD LIMIT. </li>
+                 <li>5. JUDGEMENT WILL BE BASED ON CREATIVITY, VOCABULARY AND THOUGHT PROCESS OF THE PARTICIPANTS. </li>
+                 <li>6. DURATION: 20-30 MINUTES</li>
+                 <li>7. DECISION MADE BY THE CO-ORDINATORS WILL BE FINAL IN ALL ASPECTS. </li>
 
                 </ul>
               </div>

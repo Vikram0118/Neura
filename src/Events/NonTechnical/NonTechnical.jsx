@@ -7,6 +7,9 @@ const NonTechnical = () => {
       <Title text='NON TECHNICAL EVENTS'/>
       <div className='container mx-auto py-3'>
         <div className='grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2 sm:gap-5'>
+          <Card title='Fun Zone' description='Jollyaaa erukanum' linkTo ='/NonTechnical/FunZone'/>
+          <Card title='Murder Mystery' description='Who is the victim ?' linkTo ='/NonTechnical/MurderMystery'/>
+          <Card title='Teaser Making' description='Make those Videos' linkTo ='/NonTechnical/TeaserMaking'/>
           <Card title='Adapt Tunes' description='Adapt to win' linkTo ='/NonTechnical/AdaptTunes'/>
           <Card title='Back To School' description='Those good old days' linkTo ='/NonTechnical/BackToSch'/>
           <Card title='Eatathon' description='Eat it - kill it' linkTo ='/NonTechnical/Eatathon'/>
