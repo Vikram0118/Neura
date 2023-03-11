@@ -30,13 +30,13 @@ const WhatsTheClimax = () => {
 
               <div>
                 <ul className='flex flex-col gap-2 text-b ase sm:text-lg my-3'> 
-                 <li>1. THE PARTICIPANT WOULD BE GIVEN A RANDOM TOPIC ON THE SPOT. </li>
-                 <li>2. THE TOPIC MAY BE GENERAL OR BASED ON WELL KNOWN CURRENT ISSUES. </li>
-                 <li>3. AT THE END OF 2 MINUTES PREPARATION TIME, THE PARTICPANT HAS TO SPEAK THEIR MIND ON THAT TOPIC. </li>
-                 <li>4. THE JUDGING SHALL BE BASED ON THE CONTENT DELIVERED, LANGUAGE AND OVERALL PRESENTATION. </li>
-                 <li>5. PREPARATION TIME: 2 MINUTES. </li>
-                 <li>6. DURATION: 3 MINUTES.</li>
-                 <li>5. DECISION MADE BY THE CO-ORDINATORS WILL BE FINAL IN ALL ASPECTS. </li>
+                  <li>1. THE PARTICIPANT WOULD BE GIVEN THE BEGINNING OF A STORY. </li>
+                  <li>2. THE PARTICIPANT HAS TO WRITE A CLIMAX FOR THE STORY AND GIVE IT A COMPLETION. </li>
+                  <li>3. THE PARTICIPANT HAS COMPLETE FREEDOM TO WRITE THEIR OWN CLIMAX. </li>
+                  <li>4. THE STORY SHOULD BE WITHIN THE WORD LIMIT.</li>
+                  <li>5. WORD LIMIT: 150 WORDS. </li>
+                  <li>6. DURATION: 30 MINUTES.</li>
+                  <li>7. DECISION MADE BY THE CO-ORDINATORS WILL BE FINAL IN ALL ASPECTS. </li>
 
                 </ul>
               </div>
