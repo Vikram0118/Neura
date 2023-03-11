@@ -29,7 +29,7 @@ const FootBall = () => {
               <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>VENUE</span> : ROOM 2 - IT, PTU </div>
               <div>
                 <ul className='flex flex-col gap-2 text-b ase sm:text-lg my-3'> 
-                  <li>1. ONLY CLUB PRESENT E-FOOTBALL. </li>
+                  <li>1. ONLY CLUB PRESENT TEAMS. </li>
                   <li>2. NO EXTRA MINUTES FOR DRAW MATCHES. </li>
                   <li>3. DIRECT PENALTY FOR DRAW MATCHES.</li>
                   <li>4. MATCHES WILL BE HELD IN FIRST IN FIRST SERVE MANNER.</li>

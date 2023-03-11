@@ -19,7 +19,7 @@ const WhatsTheClimax = () => {
         </div>
 
         <div className='flex max-w-6xl h-auto flex-col items-center justify-start mt-8 gap-10 mx-2 sm:mx-auto'>
-          <IndividualTitle text="WHAT'S THE CLIMAX" />
+          <IndividualTitle text="What's The Climax" />
           <div className='sm:flex'>
             <img src={extemphore} alt="" className='svg-hidden sm:w-96 sm:h-96'/>
             <div className='flex flex-col mx-2 text-left gap-2 '>
