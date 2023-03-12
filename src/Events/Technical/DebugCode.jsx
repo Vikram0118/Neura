@@ -29,6 +29,7 @@ const DebugCode = () => {
               <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>VENUE</span> : IOT LAB - IT, PTU </div>
               <div>
                 <ul className='flex flex-col gap-2 text-b ase sm:text-lg my-3'> 
+                  <li className='font-semibold underline'>ALL PARTCIPANTS ARE REQUESTED TO BRING THEIR LAPTOP</li>
                   <li>1. EACH TEAM CAN HAVE A MAXIMUM OF TWO MEMEBERS. </li>
                   <li>2. PARTICIPANTS HAVE TO FIND THE ERRORS IN THE GIVEN CODE SNIPPET. </li>
                   <li>3. WILL BE CONDUCTED IN 2 ROUNDS. </li>

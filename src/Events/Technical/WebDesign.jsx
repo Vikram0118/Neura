@@ -30,6 +30,7 @@ const WebDesign = () => {
 
               <div>
                 <ul className='flex flex-col gap-2 text-b ase sm:text-lg my-3'> 
+                  <li className='font-semibold underline'>ALL PARTCIPANTS ARE REQUESTED TO BRING THEIR LAPTOP</li>
                   <li>1. IT IS A INDIVIDUAL COMPETITION. </li>
                   <li><span className='font-medium'>TASK - 1</span> - PARTICIPANTS HAVE TO CLONE THE GIVEN DESIGNS. </li>
                   <li><span className='font-medium'>TASK - 2</span> - PARTICIPANTS HAVE TO DESIGN AN APP WITH THE GIVEN ASSETS </li>

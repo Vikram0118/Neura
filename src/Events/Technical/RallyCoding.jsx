@@ -30,7 +30,8 @@ const RallyCoding = () => {
               <div className='text-base sm:text-lg'><span className='font-medium text-lg sm:text-xl'>VENUE</span> : IOT LAB - IT, PTU </div>
 
               <div>
-                <ul className='flex flex-col gap-2 text-b ase sm:text-lg my-3'> 
+                <ul className='flex flex-col gap-2 text-b ase sm:text-lg my-3'>
+                  <li className='font-semibold underline'>ALL PARTCIPANTS ARE REQUESTED TO BRING THEIR LAPTOP</li> 
                   <li>1. EACH TEAM SHOULD HAVE 2 MEMBERS. </li>
                   <li>2. ONE INTERMIDIATE LEVEL QUESTION WILL BE GIVEN. </li>
                   <li>3. AFTER DISCUSSING FOR 5 MINUTES FIRST ONE FROM THE TEAM WILL START SOLVING THE PROBLEM. </li>

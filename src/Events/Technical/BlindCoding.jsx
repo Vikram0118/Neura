@@ -30,6 +30,7 @@ const BlindCoding = () => {
 
               <div>
                 <ul className='flex flex-col gap-2 text-b ase sm:text-lg my-3'> 
+                  <li className='font-semibold underline'>ALL PARTCIPANTS ARE REQUESTED TO BRING THEIR LAPTOP</li>
                   <li><span className='font-medium'>1. ROUND 1 :</span> PARTICIPANTS ARE NOT ALLOWED TO COMPILE THE CODE TILL THEY FINISH. </li>
                   <li>2. ROUND 1 JUDGING WILL BE BASED ON THE NUMBER OF ERRORS AFTER COMPILATION (IF ANY). </li>
                   <li><span className='font-medium'>3. ROUND 2 :</span> PARTICIPANTS ARE RESTRICTED FROM USING MONITOR WHILE CODING. </li>
