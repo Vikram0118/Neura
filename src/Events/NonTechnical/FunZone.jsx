@@ -32,7 +32,7 @@ const FunZone = () => {
                   <li>1. HAND CRICKET / ODD OR EVEN - BEST OF THREE </li>
                   <li>2. HIT THE GLASS.  </li>
                   <li>3. PEN FIGHT </li>
-                  <li>4. POLICE THIEF ( THIRUDAN POLICE) </li>
+                  <li>4. WATER WAR </li>
                   <li>5. PUT THE BALL IN THE BLOW</li>
                 </ul>
               </div>
