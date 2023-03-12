@@ -33,7 +33,7 @@ const FunZone = () => {
                   <li>2. HIT THE GLASS.  </li>
                   <li>3. PEN FIGHT </li>
                   <li>4. WATER WAR </li>
-                  <li>5. PUT THE BALL IN THE BLOW</li>
+                  <li>5. PUT THE BALL IN THE BOWL</li>
                 </ul>
               </div>
               <div className='bg-backGround rounded-xl py-2 px-5 space-y-3'>
